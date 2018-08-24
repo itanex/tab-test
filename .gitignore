@@ -1,0 +1,13 @@
+# External Modules
+node_modules
+
+# User Specific Files/Directories
+.vs
+*.user
+
+# Compile Targets
+bin
+obj
+
+*.js
+*.js.map
